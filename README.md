@@ -9,6 +9,7 @@ LINK :  https://pawelni123.github.io/Bankist-app/
 
 - **User Authentication**  
   Secure login with username and PIN.
+TO LOG IN use: username: js and PIN: 1111
 
 - **Account Overview**  
   Displays current balance, transaction history, and summary of money in, out, and interest earned.
